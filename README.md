@@ -11,5 +11,6 @@ You can stop the script for runnig by pause it with key input (Chrome): 'Ctrl + 
 Or just refresh the Tinder.com page and the script has been cleared and will not be active anymore.
 
 <b>Script not working.</b>
+
 The feature that tinder added is that for every laungage the "Fun" valuea will be written in the spoken language of destination or by setting by.
 This updated version will be updated to provide all written languages so no one would have any problem to run this script.
