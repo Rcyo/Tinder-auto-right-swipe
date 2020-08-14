@@ -4,7 +4,7 @@ This small code has to be added into your browser console.
 After putting the code in the console and hitting enter will open a window to verify turning it on.
 When verified turning it on, the code will do its work!
 
-After the code is doing its work --> Unlimited liking all people to the right till it runs out litarly of profiles or you stop the code (Or you have a maximal amount everday only.
+After the code is doing its work --> *Unlimited liking all people to the right till it runs out litarly of profiles or you stop the code (* = Or you have a maximum amount everday only because no use of premium from tinder.)
 Do know to keep open your console and also the matching page of tinder.com.
 
 You can stop the script for runnig by pause it with key input (Chrome): 'Ctrl + \'. 
